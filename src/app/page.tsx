@@ -49,6 +49,7 @@ const services = [
 
 export default function Home() {
   const heroImage = PlaceHolderImages.find((img) => img.id === '1');
+  const purposeImage = PlaceHolderImages.find((img) => img.id === '7');
 
   return (
     <div className="flex flex-col">
@@ -164,6 +165,35 @@ export default function Home() {
               data-ai-hint={heroImage.imageHint}
             />
           )}
+        </div>
+      </section>
+
+      <section className="w-full py-12 md:py-24 lg:py-32 bg-secondary">
+        <div className="container mx-auto grid items-center gap-6 px-4 md:px-6 lg:grid-cols-2 lg:gap-12">
+        {purposeImage && (
+            <Image
+              src={purposeImage.imageUrl}
+              alt={purposeImage.description}
+              width={600}
+              height={400}
+              className="mx-auto aspect-[4/3] overflow-hidden rounded-xl object-cover object-center sm:w-full"
+              data-ai-hint={purposeImage.imageHint}
+            />
+          )}
+          <div className="space-y-4">
+            <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm">
+              Our Refined Purpose
+            </div>
+            <h2 className="font-headline text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
+              Championing Small Business in the AI Age
+            </h2>
+            <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+              We believe in small business, and we’re here to help you stay relevant in an ever-changing AI landscape. While larger corporations are increasingly squeezing out smaller companies, we offer practical, affordable services designed to help you compete and grow. We haven’t forgotten where we came from—and we know businesses like yours are the backbone of every community. Let’s use the tools of the future to strengthen your business today.
+            </p>
+            <Button asChild size="lg" className="mt-4">
+              <Link href="/contact">Let's Build Together</Link>
+            </Button>
+          </div>
         </div>
       </section>
     </div>
