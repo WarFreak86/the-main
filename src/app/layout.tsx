@@ -14,7 +14,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: 'AI Marketing Edge',
+  title: 'Render-Lab',
   description: 'Beyond Automation. Intelligent Growth.',
 };
 

@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
           <Logo />
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} AI Marketing Edge. All rights
+            &copy; {new Date().getFullYear()} Render-Lab. All rights
             reserved.
           </p>
         </div>

@@ -71,7 +71,7 @@ export default function AboutPage() {
                 Built for Ambitious, Data-Driven Leaders
               </h2>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                We built AI Marketing Edge for leaders who see the transformative potential of AI but are frustrated by the hype and complexity. You're tired of generic advice and agencies that just rebrand old services. You need a true partner who understands data infrastructure, workflow automation, and the new frontier of Generative Engine Optimization. If you're ready to move beyond experimentation and build a dominant digital presence, you're in the right place.
+                We built Render-Lab for leaders who see the transformative potential of AI but are frustrated by the hype and complexity. You're tired of generic advice and agencies that just rebrand old services. You need a true partner who understands data infrastructure, workflow automation, and the new frontier of Generative Engine Optimization. If you're ready to move beyond experimentation and build a dominant digital presence, you're in the right place.
               </p>
             </div>
           </div>
