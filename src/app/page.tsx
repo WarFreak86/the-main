@@ -160,7 +160,7 @@ export default function Home() {
               alt={heroImage.description}
               width={600}
               height={400}
-              className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
+              className="mx-auto aspect-[4/3] overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
               data-ai-hint={heroImage.imageHint}
             />
           )}
