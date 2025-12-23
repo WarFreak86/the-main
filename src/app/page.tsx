@@ -130,10 +130,7 @@ export default function Home() {
               Beyond Automation. Intelligent Growth.
             </h2>
             <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              While other agencies are just now adding "AI" to their PowerPoints,
-              we've been mastering the deep, technical integration that actually
-              works. We don't just use AI; we build intelligent marketing
-              systems that deliver unparalleled results.
+              While other agencies are just now adding "AI" to their PowerPoints.
             </p>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
               <div className="rounded-lg border bg-card p-4 text-center">
