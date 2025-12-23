@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "1",
-      "description": "A futuristic data visualization dashboard emerges from a colorful, undulating landscape, representing complex analytics and insights.",
-      "imageUrl": "https://images.unsplash.com/photo-1718029515249-3c221b64ef72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwdmlzdWFsaXphdGlvbiUyMGRhc2hib2FyZHxlbnwwfHx8fDE3NjgyMzY1MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "data dashboard"
+      "description": "Abstract AI-themed graphic with glowing neural network connections on a dark background, representing intelligent systems.",
+      "imageUrl": "https://images.unsplash.com/photo-1716637644831-e046c73be197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8YWl8ZW58MHx8fHwxNzY2NDI3NDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract ai"
     },
     {
       "id": "2",
