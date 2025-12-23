@@ -130,7 +130,7 @@ export default function Home() {
               Beyond Automation. Intelligent Growth.
             </h2>
             <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              While other agencies are just now adding "AI" to their PowerPoints.
+              While other agencies are just now adding "AI" to their PowerPoints, we have built a custom website scanner and social media driver that is able to create tailored content to keep you active on all social media and provide other services like Refreshing you website to make it more current and streamlined.
             </p>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
               <div className="rounded-lg border bg-card p-4 text-center">
