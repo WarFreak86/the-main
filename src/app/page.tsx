@@ -130,7 +130,7 @@ export default function Home() {
               Beyond Automation. Intelligent Growth.
             </h2>
             <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              While other agencies are just now adding "AI" to their PowerPoints, we have built a custom website scanner and social media driver that is able to create tailored content to keep you active on all social media and provide other services like Refreshing you website to make it more current and streamlined.
+              While many agencies are only beginning to add “AI” to their presentations, we have already built and deployed a custom website scanner and social media engine designed to produce tailored, brand-aligned content that keeps you consistently active across every major platform. Beyond content creation, we also provide ongoing website refresh services—modernizing your site’s look and feel, improving clarity and flow, and streamlining the experience so it stays current, polished, and conversion-ready.
             </p>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
               <div className="rounded-lg border bg-card p-4 text-center">
